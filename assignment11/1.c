@@ -4,6 +4,7 @@ int main()
     int a,b;
     printf("enter month no;");
     scanf("%d",&a);
+    
     switch (a)
     {
         case 1:
