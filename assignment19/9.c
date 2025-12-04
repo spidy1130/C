@@ -1,3 +1,4 @@
+//Write a C program to sort a string array in ascending order.
 #include<stdio.h>
 #include<string.h>
 int main()

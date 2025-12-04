@@ -1,3 +1,4 @@
+//Write a program in C to Find the Frequency of Characters.
 #include<stdio.h>
 #include<string.h>
 int main()
