@@ -1,3 +1,4 @@
+/*Write a program to search a string in the list of strings.*/
 #include<stdio.h>
 #include<string.h>
 int main()

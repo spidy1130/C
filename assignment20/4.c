@@ -1,3 +1,4 @@
+//Write a function to transform string into uppercase
 #include<stdio.h>
 #include<string.h>
 void upp(char b[]);

@@ -1,3 +1,4 @@
+//Write a function to check whether a given string is palindrome or not.
 #include<stdio.h>
 #include<string.h>
 void palndrm(char b[]);

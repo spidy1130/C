@@ -1,3 +1,4 @@
+//Write a function to check whether a given string is an alphanumeric string or not. 
 #include<stdio.h>
 #include<ctype.h>
 void upp(char b[]);

@@ -1,3 +1,4 @@
+//Write a function to reverse a string.
 #include<stdio.h>
 #include<string.h>
 void strev(char b[]);

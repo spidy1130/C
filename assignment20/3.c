@@ -1,3 +1,4 @@
+//Write a function to compare two strings
 #include<stdio.h>
 #include<string.h>
 void cmp(char a[],char b[]);

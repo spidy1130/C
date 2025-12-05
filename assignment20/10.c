@@ -1,3 +1,4 @@
+//Write a function to find the repeated character in a given string.
 #include<stdio.h>
 #include<string.h>
 int main()

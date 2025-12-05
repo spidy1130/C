@@ -1,3 +1,4 @@
+//Write a function to count words in a given string
 #include<stdio.h>
 #include<string.h>
 void wcount(char b[]);
