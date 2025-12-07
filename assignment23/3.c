@@ -1,0 +1,31 @@
+#include<stdio.h>
+#include<string.h>
+struct Employee input();
+void display(struct Employee a);
+struct Employee
+{
+   int id;
+   char name[20];
+   float salary;
+};
+int main()
+{
+    struct Employee a;
+    a=input();
+    display(a);
+    return 0;
+}
+struct Employee input()
+{
+    struct Employee b;
+    printf("enter employee id,name and salary");
+    scanf("%d",&b.id);
+    fflush(stdin);
+    gets(b.name);
+    scanf("%f",&b.salary);
+    return b;
+}
+void display(struct Employee a)
+{
+   printf("\nemployee id=%d\nemployee name is %s\nsalary=%f",a.id,a.name,a.salary);
+}
